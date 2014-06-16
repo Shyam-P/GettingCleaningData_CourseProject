@@ -1,7 +1,7 @@
-# ==================================================================
+
 # Human Activity Recognition Using Smartphones Dataset
 # Version 1.0
-# ==================================================================
+
 
 A total of 10299 experiments were conducted on 30 subjects within the age group of 19-48 years. Measurements were done, when each person performed one in 6 activities, using the accelerometer and gyroscope on the Samsung Galaxy S II smartphone. The data from these measurements have been processed into the following tables:
 
